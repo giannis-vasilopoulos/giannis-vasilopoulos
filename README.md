@@ -1,5 +1,5 @@
 ### Hey, I'm Giannis 👋
-I am a JavaScript Full stack software engineer
+I am a JavaScript Full-Stack Web Developer
 - 🔭 Working on Front-end and Back-end using React, Node.js and PHP
 
 ## Connect with me
