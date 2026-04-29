@@ -20,7 +20,6 @@ I'm a **Senior Frontend Engineer** based in Athens, Greece 🇬🇷, with 8 year
 - 🏗️ **Tech lead background** — served as **Frontend Chapter Lead** for 3 years, mentoring engineers and shaping frontend architecture decisions
 - ⚡ Focused on building **fast, type-safe, scalable** frontends with React and Next.js
 - 🌐 Experienced with both **GraphQL** and **REST** API integrations across complex product environments
-- 🔍 Currently exploring **freelance opportunities** — feel free to reach out!
 
 ---
 
@@ -60,9 +59,9 @@ I'm a **Senior Frontend Engineer** based in Athens, Greece 🇬🇷, with 8 year
 
 <div align="center">
 
-![Giannis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giannis-vasilopoulos&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=e5e7eb)
+![Giannis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giannis-vasilopoulos&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=e5e7eb&1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giannis-vasilopoulos&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e5e7eb)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giannis-vasilopoulos&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e5e7eb&1)
 
 </div>
 
